@@ -1,0 +1,57 @@
+[
+  {
+    "isbn": "9789630001",
+    "title": "Matematika 5. osztály",
+    "author": "Kovács Péter",
+    "subject": "Matematika",
+    "grade": 5,
+    "publisher": "Mozaik Kiadó",
+    "price": 2490,
+    "stock": 15,
+    "cover_image": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?w=400&q=80"
+  },
+  {
+    "isbn": "9789630002",
+    "title": "Történelem 9. osztály",
+    "author": "Szabó Mihály",
+    "subject": "Történelem",
+    "grade": 9,
+    "publisher": "Apáczai Kiadó",
+    "price": 2890,
+    "stock": 10,
+    "cover_image": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?w=400&q=80"
+  },
+  {
+    "isbn": "9789630003",
+    "title": "Biológia 7. osztály",
+    "author": "Nagy Katalin",
+    "subject": "Biológia",
+    "grade": 7,
+    "publisher": "Oktatási Hivatal",
+    "price": 2600,
+    "stock": 20,
+    "cover_image": "https://images.unsplash.com/photo-1532153975070-2e9ab71f1b14?w=400&q=80"
+  },
+  {
+    "isbn": "9789630004",
+    "title": "Fizika munkafüzet 10. osztály",
+    "author": "Horváth Imre",
+    "subject": "Fizika",
+    "grade": 10,
+    "publisher": "Maxim Kiadó",
+    "price": 1800,
+    "stock": 12,
+    "cover_image": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=400&q=80"
+  },
+  {
+    "isbn": "9789630005",
+    "title": "Angol nyelvkönyv kezdőknek",
+    "author": "Varga Gábor",
+    "subject": "Angol",
+    "grade": 9,
+    "publisher": "Oxford",
+    "price": 4500,
+    "stock": 5,
+    "cover_image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=400&q=80"
+  }
+]

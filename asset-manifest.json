@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/webshop1/static/css/main.addc37c5.css",
+    "main.js": "/webshop1/static/js/main.4e9707ff.js",
+    "index.html": "/webshop1/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.addc37c5.css",
+    "static/js/main.4e9707ff.js"
+  ]
+}
